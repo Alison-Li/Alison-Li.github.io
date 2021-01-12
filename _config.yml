@@ -64,8 +64,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: alison-li  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple website for Alison Li
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: A lot of gibberish.
 permalink: /blog/:year/:title/
 
 # Pagination
