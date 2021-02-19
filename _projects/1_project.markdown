@@ -7,7 +7,7 @@ importance: 1
 ---
 
 <div class="row">
-    <img class="img-fluid rounded z-depth-1" style="height:50%;" src="{{ '/assets/img/flappy_bird.gif' | relative_url }}" alt="" title="flappy bird demo"/>
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/flappy_bird.gif' | relative_url }}" alt="" title="flappy bird demo"/>
 <div>
 
 Created using Thomas Palef's tutorial on <a href="http://www.lessmilk.com/tutorial/flappy-bird-phaser-1">How to Make Flappy Bird in HTML5 with Phaser</a>. The default assets feature a special appearance from a friend as the flying bird and his aversion to cats as the obstacles.
