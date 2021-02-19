@@ -17,4 +17,4 @@ I graduated from my undergraduate studies at the head of a pandemic and I guess 
 
 I studied history and software engineering at <a href="https://www.mcgill.ca/">McGill University</a> and am now currently pursuing graduate studies in computer science at the <a href="https://www.ubc.ca/">University of British Columbia</a>.
 
-If you are currently reading this, I apologize! You have found my personal website under construction.
+I'm happy to talk about transitioning from the humanities to science and attending graduate school in general!
